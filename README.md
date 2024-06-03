@@ -1,10 +1,11 @@
 # chessGame_LeMaster-Tech
 <h1> Chess Game using Pygame</h1>
-<h3>Learn Pygame by making chess game <h3>
+
 This repository contains the source code for a chess game built using Pygame, inspired by the tutorial series from LeMaster Tech. The project demonstrates the creation of a functional chess game, complete with a graphical user interface and basic game mechanics.
 
-Description
-This chess game is developed using Pygame, a popular Python library for creating video games. The game includes features such as:
+Description:
+<h3>Learn Pygame by making chess game <h3>
+<p> This chess game is developed using Pygame, a popular Python library for creating video games. The game includes features such as:<p>
 
 A graphical chessboard and pieces.
 Basic rules of chess, including valid moves and captures.
